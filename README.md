@@ -1,5 +1,8 @@
 # personal-file
 
+# 版本升级
+2021-01-27 第一版 
+
 ## Build Setup
 
 ```bash
